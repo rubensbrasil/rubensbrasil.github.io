@@ -1,6 +1,8 @@
 p{color: black ; font-size: 15px;}
 h1{font-size: 60px;text-align: center;background-color: darkcyan;  }
 h2{background-color: darkcyan;}
-a{color: orange;}
+a{color:black;}
 
-.todo{background-color: powderblue;}
+a:hover{color: darkcyan; font-size: 20;}
+
+
